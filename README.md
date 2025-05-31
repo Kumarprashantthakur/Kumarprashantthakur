@@ -97,16 +97,12 @@
 ---
 
 ## 🐍 Snake Contribution Animation
-![Snake animation](https://github.com/Kumarprashantthakur/Kumarprashantthakur/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kumarprashantthakur&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kumarprashantthakur&theme=github-compact)
-
-## 🔥 Profile Metrics
-<img src="https://github.com/Kumarprashantthakur/Kumarprashantthakur/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 ## 👀 Visitor Count
 ![Visitors](https://komarev.com/ghpvc/?username=Kumarprashantthakur&label=PROFILE+VIEWS&color=blue&style=flat-square)
