@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/prashant-kumar-641b1828a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/prashant-kumar-641b1828a" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/prashant-kumar-641b1828a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/prashant-kumar-641b1828a" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/twinsbrotherz?igsh=mwyyyzljnw1sejuxdw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/twinsbrotherz?igsh=mwyyyzljnw1sejuxdw==" height="30" width="40" /></a>
 <a href="https://medium.com/prashnatthakur0128@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="prashnatthakur0128@gmail.com" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uchftvfkddvg4qdtldcryxqa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchftvfkddvg4qdtldcryxqa" height="30" width="40" /></a>
