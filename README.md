@@ -94,5 +94,7 @@
 ![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=kumarprashantthakur&label=VISITORS&countColor=%23263759)
 
 ---
+### 🐍 Contribution Snake Animation:
 
+![Snake animation](https://github.com/Kumarprashantthakur/Kumarprashantthakur/blob/output/github-contribution-grid-snake.svg)
 
